@@ -3,5 +3,5 @@ pdfminer.six==20201018
 spacy==3.7.6
 thinc==8.2.2
 numpy==1.23.0
-setuptools
+setuptools>=65.5.0
 python==3.12.5
