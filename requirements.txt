@@ -4,3 +4,4 @@ spacy==3.7.6
 thinc==8.2.2
 numpy==1.23.0
 setuptools
+python==3.12.5
